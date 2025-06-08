@@ -36,6 +36,6 @@ npm run dev
 - Explore **similar type Pokémon** for recommendations.  
 
 ## 🌎 **Live Demo**  
-🔗 [Pokédex App](https://pokedex-pi-black.vercel.app/)  
+🔗 [Pokédex App]
 
 ---
